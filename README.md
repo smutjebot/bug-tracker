@@ -8,7 +8,7 @@
   <a href="https://smutje.app"><img src="https://img.shields.io/website/https/smutje.app.svg?down_message=offline&label=Website&up_message=online" alt="Website Status"></a>
   <br>
   <a href="https://smutje.app/twitter"><img src="https://img.shields.io/twitter/follow/el_capitano1988.svg?label=el_capitano1988&style=social" alt="Twitter"></a>
-  <a href="https://twitch.tv/el_capitano1988"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/el_capitano1988?label=el_capitano1988&style=social"></a>
+  <a href="https://smutje.app/twitch"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/el_capitano1988?label=el_capitano1988&style=social"></a>
   <a href="https://smutje.app/youtube"><img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCUKIEOAk_bzq1fe_-J5HGNQ?label=el_capitano1988&style=social"></a>
 </p>
 
@@ -42,6 +42,6 @@ If you have any security related messages, send an email to [developer@smutje.ap
 ----
 
 🌐 [Smutje.app](https://smutje.app)    
-▶  [@EL_CAPiTANO1988 on Twitch](https://twitch.tv/el_capitano1988)    
+▶  [@EL_CAPiTANO1988 on Twitch](https://smutje.app)    
 🐦 [@EL_CAPiTANO1988 on Twitter](https://smutje.app/twitter)    
 📷 [@EL_CAPiTANO1988 on Instagram](https://smutje.app/instagram)
