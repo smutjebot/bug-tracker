@@ -42,6 +42,6 @@ If you have any security related messages, send an email to [developer@smutje.ap
 ----
 
 🌐 [Smutje.app](https://smutje.app)    
-▶  [@EL_CAPiTANO1988 on Twitch](https://smutje.app)    
+▶  [@EL_CAPiTANO1988 on Twitch](https://smutje.app/twitch)    
 🐦 [@EL_CAPiTANO1988 on Twitter](https://smutje.app/twitter)    
 📷 [@EL_CAPiTANO1988 on Instagram](https://smutje.app/instagram)
