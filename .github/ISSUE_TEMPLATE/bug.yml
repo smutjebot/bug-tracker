@@ -1,6 +1,6 @@
 name: Error message
 description: Create a message about an error
-labels: [bug]
+labels: [🐛 bug]
 assignees:
   - cruex-de
 body:
