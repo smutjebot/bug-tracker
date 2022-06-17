@@ -31,7 +31,7 @@ More information on current events is available on our **Status site [status.smu
 5. Fill out all fields
 6. Use the "Preview" tab above the input window to check if the message is formatted correctly
 
-## ⚠️ Problems with login etc. ⚠️
+## ⚠️ Problems with login and account-specific issues ⚠️
 
 Please send questions & problems about the login, 2-factor and all other account-specific issues an email to [help@smutje.app](mailto:help@smutje.app). **Do not use the bugtracker for this**!
 
