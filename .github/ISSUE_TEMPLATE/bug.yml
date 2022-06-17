@@ -1,0 +1,127 @@
+name: Error message
+description: Create a message about an error
+labels: [bug]
+assignees:
+  - cruex-de
+body:
+  - type: textarea
+    id: info
+    attributes:
+      label: Error description
+      description: A clear and concise description of what the error is.
+      placeholder: Once I ... will give me a bug '...' displayed...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Steps to reproduce the error.
+      placeholder: |
+        1. Navigate to '...'
+        2. Click on '....'
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Behavior expected
+      description: A description of the expected behavior / outcome.
+      placeholder: When I ... should be...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: App Version
+      description: The version can be found at the bottom left of the page.
+      placeholder: E.g. v1.0.5-97dd2ae
+    validations:
+      required: true
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      description: On which device did you notice the error?
+      multiple: true
+      options:
+        - Desktop
+        - Laptop
+        - Smartphone
+        - Tablet
+        - Smart TV
+        - Chromecast
+        - Apple TV
+        - Fire TV
+        - "* not specified"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      description: What operating system are you using?
+      multiple: true
+      options:
+        - Windows 10
+        - Windows 11 Beta
+        - Windows (other)
+        - macOS 11
+        - macOS 12 Beta
+        - macOS (other)
+        - Android
+        - iOS / iPadOS
+        - "* not specified"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: Which browser are you using?
+      multiple: true
+      options:
+        - Google Chrome
+        - Firefox
+        - Safari
+        - Brave
+        - Opera
+        - Vivaldi
+        - Microsoft Edge (new, Chromium)
+        - Microsoft Edge (old)
+        - Internet Explorer
+        - "* not specified"
+    validations:
+      required: true
+
+  - type: input
+    id: browser_version
+    attributes:
+      label: Browser version
+      description: The browser version currently in use.
+      placeholder: E.g. 56.1324
+    validations:
+      required: false
+
+  - type: input
+    id: browser_extensions
+    attributes:
+      label: Extensions & Add-Ons
+      description: Do you have extensions or add-ons installed?
+      placeholder: E.g. AdBlock Plus, Lastpass, ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: more
+    attributes:
+      label: More information / screenshots
+      description: More information about the problem, if available.
+    validations:
+      required: false
