@@ -1,0 +1,52 @@
+name: Feature suggestion
+description: Share your ideas for a new feature with us
+labels: [✨ feature ,🔧 improvement]
+assignees:
+  - cruex-de
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type of proposal
+      options:
+        - Completely new feature
+        - Improvement of an existing function
+        - Visual improvement
+        - other
+    validations:
+      required: true
+
+  - type: textarea
+    id: info
+    attributes:
+      label: Describe the feature
+      description: A clear description of the feature.
+      placeholder: With that ... would like to have ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Are there any alternatives?
+      description: Describe if there can be alternative solutions to the feature.
+      placeholder: With the existing ... it is possible that ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Does the proposal stem from an existing problem?
+      description: Please describe the problem that the proposal is intended to fix, if any.
+      placeholder: Without ... there is no possibility, ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: more
+    attributes:
+      label: More information / screenshots
+      description: More information about the problem, if available.
+    validations:
+      required: false
