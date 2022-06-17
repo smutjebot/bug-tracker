@@ -37,7 +37,7 @@ Please send questions & problems about the login, 2-factor and all other account
 
 ## Security
 
-If you have any security related messages, send an email to [eveloper@smutje.app](mailto:developer@smutje.app) instead of using the issue tracker.
+If you have any security related messages, send an email to [developer@smutje.app](mailto:developer@smutje.app) instead of using the issue tracker.
 
 ----
 
